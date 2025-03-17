@@ -1,6 +1,7 @@
 # movie-recommendation-KNN
 
 📌 Features
+
 ✅ Movie Similarity: Finds similar movies based on user ratings.
 ✅ KNN with Cosine Similarity: Uses scikit-learn's NearestNeighbors to identify closest movies.
 ✅ Fuzzy Matching: Handles slight spelling mistakes in movie titles using fuzzywuzzy.
